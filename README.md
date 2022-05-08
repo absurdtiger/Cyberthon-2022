@@ -5,7 +5,7 @@ Team SeantheSheep, 11th place, 6892 points
 - Josephine Cahyadi [awaiting github link]
 - Jodie Teo [@absurdtiger](https://github.com/absurdtiger)
 
-This time round a few things went wrong; we're learning our mistakes and will be back next year. 
+This time round a few things went wrong; we're learning our mistakes and will be back next year. [Final leaderboard here](./Screenshot_2022-05-07_at_16-16-50_Cyberthon.png)
 
 Below are the challenges [points], before the final hour.
 
