@@ -89,6 +89,6 @@ p.sendline(payload)
 p.interactive()
 ```
 
-full script at [exploit.py](/.exploit.py)
+full script at [exploit.py](./exploit.py)
 
 `CTFSG{3ch0_4ft3r_m3_d0nt_p455_us3r_1nput_2_pr1ntf}`
