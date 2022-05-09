@@ -2,7 +2,7 @@
 Team SeantheSheep, 11th place, 6892 points
 - Elijah Yong [@Eldoofus](https://github.com/Eldoofus)
 - Zachary Lim [github](https://github.com/zacharyunderscorelim)
-- Josephine Cahyadi [awaiting github link]
+- Josephine Cahyadi [github](https://github.com/josfin)
 - Jodie Teo [@absurdtiger](https://github.com/absurdtiger)
 
 This time round a few things went wrong; we're learning our mistakes and will be back next year. [Final leaderboard here](./Screenshot_2022-05-07_at_16-16-50_Cyberthon.png)
