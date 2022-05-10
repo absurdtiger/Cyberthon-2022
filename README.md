@@ -11,11 +11,11 @@ Below are the challenges [points], before the final hour. A few training chall w
 
 Pwn
 ---
-- Shifting Passwords [981] (solved)
-- Yellow Pages [990]
-- testcat [992]
-- [CSIT] Set me free [1000]
-- Classifieds [1000]
+- [Shifting Passwords](https://github.com/absurdtiger/Cyberthon-2022/tree/main/Pwn/Shifting%20Passwords) [981] (solved)
+- [Yellow Pages](https://github.com/absurdtiger/Cyberthon-2022/tree/main/Pwn/Yellow%20Pages) [990]
+- [testcat](https://github.com/absurdtiger/Cyberthon-2022/tree/main/Pwn/testcat) [992] (writeup)
+- [\[CSIT\] Set me free](https://github.com/absurdtiger/Cyberthon-2022/tree/main/Pwn/%5BCSIT%5D%20Set%20me%20free) [1000]
+- [Classifieds](https://github.com/absurdtiger/Cyberthon-2022/tree/main/Pwn/Classifieds) [1000] (writeup)
 
 Reverse Engineering
 ---
