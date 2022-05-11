@@ -2,20 +2,20 @@
 Team SeantheSheep, 11th place, 6892 points
 - Elijah Yong [@Eldoofus](https://github.com/Eldoofus)
 - Zachary Lim [github](https://github.com/zacharyunderscorelim)
-- Josephine Cahyadi [awaiting github link]
+- Josephine Cahyadi [github](https://github.com/josfin)
 - Jodie Teo [@absurdtiger](https://github.com/absurdtiger)
 
 This time round a few things went wrong; we're learning our mistakes and will be back next year. [Final leaderboard here](./Screenshot_2022-05-07_at_16-16-50_Cyberthon.png)
 
-Below are the challenges [points], before the final hour.
+Below are the challenges [points], before the final hour. A few training chall writeups are also available.
 
 Pwn
 ---
-- Shifting Passwords [981] (solved)
-- Yellow Pages [990]
-- testcat [992]
-- [CSIT] Set me free [1000]
-- Classifieds [1000]
+- [Shifting Passwords](https://github.com/absurdtiger/Cyberthon-2022/tree/main/Pwn/Shifting%20Passwords) [981] (solved)
+- [Yellow Pages](https://github.com/absurdtiger/Cyberthon-2022/tree/main/Pwn/Yellow%20Pages) [990]
+- [testcat](https://github.com/absurdtiger/Cyberthon-2022/tree/main/Pwn/testcat) [992] (writeup)
+- [\[CSIT\] Set me free](https://github.com/absurdtiger/Cyberthon-2022/tree/main/Pwn/%5BCSIT%5D%20Set%20me%20free) [1000]
+- [Classifieds](https://github.com/absurdtiger/Cyberthon-2022/tree/main/Pwn/Classifieds) [1000] (writeup)
 
 Reverse Engineering
 ---
