@@ -9,8 +9,9 @@ The only problem is...the password's always changing, at least we think so.
 
 Password cracking is hard, but what if the passwords are never the same...
 
-Interact with the service using: \n
-nc chals.cyberthon22f.ctf.sg 10201
+Interact with the service using:
+
+```nc chals.cyberthon22f.ctf.sg 10201```
 
 Files: [shifting_passwords](./shifting_passwords)
 
