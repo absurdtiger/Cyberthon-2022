@@ -103,7 +103,7 @@ for i in range(1000):
         out = str(p.recvall())
         p.close()
         if out.find("Cyberthon") != -1:
-                info.log(out)
+                log.info(out)
                 break
         else:
                 continue
